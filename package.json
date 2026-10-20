@@ -1,0 +1,13 @@
+{
+  "name": "unkey-test-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal test API for deploying on Unkey Compute",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
